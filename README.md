@@ -1,6 +1,4 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: NIKSHITHA G </h3>
-<h3>Register Number: 212223110031 </h3>
 <H1>Aim:</H1>
 <p>
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
